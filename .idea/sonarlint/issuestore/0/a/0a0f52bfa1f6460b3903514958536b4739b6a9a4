@@ -1,0 +1,22 @@
+
+P
+java:S1141-"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k
+java:S1104"UMake isInQueue a static final constant or non-public and provide accessors if needed.(¶İã¤
+j
+java:S1450"URemove the "thread" field and declare it as a local variable in the relevant methods.(â£Ÿ4
+E	java:S1061"+Replace this use of System.out by a logger.(ûÛÈùıÿÿÿÿ
+E	java:S1065"+Replace this use of System.out by a logger.(ûÛÈùıÿÿÿÿ
+@	java:S106@"+Replace this use of System.out by a logger.(ÀÀ¼‰
+@	java:S106L"+Replace this use of System.out by a logger.(ïôéÅ
+@	java:S106Z"+Replace this use of System.out by a logger.(Ú¹ùÛ
+@	java:S106g"+Replace this use of System.out by a logger.(»í–º
+@	java:S106u"+Replace this use of System.out by a logger.(Í¦‹
+A	java:S106ƒ"+Replace this use of System.out by a logger.(¸ğÒÜ
+i
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(“–ış
+=	java:S131–""Add a default case to this switch.(ö±ÂŒøÿÿÿÿ
+F	java:S106¦"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ
+A	java:S106¸"+Replace this use of System.out by a logger.(ƒ§¡ı
+A	java:S106¼"+Replace this use of System.out by a logger.(Ñä®Û
+F	java:S106É"+Replace this use of System.out by a logger.(Ü£ß¬ıÿÿÿÿ

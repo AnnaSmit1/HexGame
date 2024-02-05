@@ -1,0 +1,14 @@
+
+R
+java:S2589<"7Remove this expression which always evaluates to "true"(žšºÇøÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(³—ÝÄ
+N
+java:S1854"8Remove this useless assignment to local variable "pair".(îö±Î
+B
+java:S1125 "'Remove the unnecessary boolean literal.(úÉõ½úÿÿÿÿ
+E	java:S106""+Replace this use of System.out by a logger.(·—¿§ûÿÿÿÿ
+E	java:S106'"+Replace this use of System.out by a logger.(·—¿§ûÿÿÿÿ
+E	java:S1061"+Replace this use of System.out by a logger.(¶Û¼Íøÿÿÿÿ
+E	java:S106="+Replace this use of System.out by a logger.(—†ûûúÿÿÿÿ
+E	java:S106>"+Replace this use of System.out by a logger.(¶Û¼Íøÿÿÿÿ

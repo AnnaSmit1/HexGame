@@ -1,0 +1,55 @@
+
+l
+java:S1104#"QMake board a static final constant or non-public and provide accessors if needed.(ææéŠşÿÿÿÿ
+]
+java:S2259_"BA "NullPointerException" could be thrown; "line" is nullable here.(„ƒ›Ëøÿÿÿÿ
+Y
+java:S2259"BA "NullPointerException" could be thrown; "line" is nullable here.(Ô¹ñ…
+@	java:S1067"+Replace this use of System.out by a logger.(´Ã‡®
+@	java:S106E"+Replace this use of System.out by a logger.(è®Ç
+E	java:S106O"+Replace this use of System.out by a logger.( Ğ«Şüÿÿÿÿ
+m
+java:S3776V"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ˆ·å§úÿÿÿÿ
+P
+java:S1117W":Rename "reader" which hides the field declared at line 23.(Ï ¾ğ
+E	java:S106X"+Replace this use of System.out by a logger.(©å½‰úÿÿÿÿ
+@	java:S106]"+Replace this use of System.out by a logger.(²ÆÃÜ
+E	java:S106b"+Replace this use of System.out by a logger.(®åÛ´ùÿÿÿÿ
+Q	java:S125g"<This block of commented-out lines of code should be removed.(ÚÙ±Ú
+E	java:S106l"+Replace this use of System.err by a logger.(û€‰ºùÿÿÿÿ
+@	java:S106p"+Replace this use of System.out by a logger.(²ÆÃÜ
+@	java:S106y"+Replace this use of System.out by a logger.(Ñ£„å
+@	java:S106z"+Replace this use of System.out by a logger.(‹å¤ƒ
+@	java:S106{"+Replace this use of System.out by a logger.(¬îÈŸ
+@	java:S106|"+Replace this use of System.out by a logger.(ªŞÊ
+E	java:S106}"+Replace this use of System.out by a logger.(–øû»ûÿÿÿÿ
+E	java:S106~"+Replace this use of System.out by a logger.(èÌ…úÿÿÿÿ
+A	java:S106‡"+Replace this use of System.out by a logger.(ÿƒ®ë
+>
+java:S1125"'Remove the unnecessary boolean literal.(¥ıä
+F	java:S106"+Replace this use of System.out by a logger.(Û×Ûÿıÿÿÿÿ
+A	java:S106•"+Replace this use of System.out by a logger.(ú±åä
+A	java:S106™"+Replace this use of System.out by a logger.(Ñ£„å
+A	java:S106š"+Replace this use of System.out by a logger.(‹å¤ƒ
+A	java:S106›"+Replace this use of System.out by a logger.(¬îÈŸ
+F	java:S106œ"+Replace this use of System.out by a logger.(ô¢Íÿÿÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(–øû»ûÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(‡ÛëÑûÿÿÿÿ
+F	java:S106¤"+Replace this use of System.out by a logger.(¾µÑŒùÿÿÿÿ
+F	java:S106´"+Replace this use of System.out by a logger.(åÍÙ÷ûÿÿÿÿ
+n
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ª´°Úúÿÿÿÿ
+F	java:S106À"+Replace this use of System.out by a logger.(ş¹Æ§ûÿÿÿÿ
+I
+java:S1135Â"2Complete the task associated to this TODO comment.(Éíù
+@	java:S106Ş"+Replace this use of System.out by a logger.(ÏªñZ
+F	java:S106ê"+Replace this use of System.out by a logger.(¬ğßÂÿÿÿÿÿ
+A	java:S106€"+Replace this use of System.out by a logger.(Ÿô×Æ
+A	java:S106‚"+Replace this use of System.out by a logger.(¥Îªá
+A	java:S106„"+Replace this use of System.out by a logger.(¸ŠÕÑ
+A	java:S106Š"+Replace this use of System.out by a logger.(şá—÷
+F	java:S106‹"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ
+G
+java:S1128",Remove this unused import 'ai.EasyStrategy'.(çÔŞÜÿÿÿÿÿ
+E
+java:S1068"*Remove this unused "reader" private field.(Êü¨†øÿÿÿÿ
